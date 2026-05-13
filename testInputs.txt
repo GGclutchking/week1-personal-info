@@ -1,0 +1,19 @@
+
+---
+
+# Step 7: Write `testInputs.txt`
+
+Paste:
+
+```text
+Test Case 1
+Food: Pizza
+Color: Blue
+
+Test Case 2
+Food: Burger
+Color: Red
+
+Test Case 3
+Food: Pasta
+Color: Black
